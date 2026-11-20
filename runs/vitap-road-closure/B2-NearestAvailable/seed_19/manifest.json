@@ -1,0 +1,10 @@
+{
+  "scenario_id": "vitap-road-closure",
+  "strategy_name": "B2-NearestAvailable",
+  "random_seed": 19,
+  "config_hash": "e0adfaa2",
+  "git_commit": "aa293c3a55aab96b12865e08120057342f6b36c0",
+  "recorded_at": "2026-10-10T20:40:02.852445+00:00",
+  "vehicle_count": 400,
+  "timestep_count": 600
+}

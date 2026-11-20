@@ -1,0 +1,10 @@
+{
+  "scenario_id": "vitap-e8-vehicle-types",
+  "strategy_name": "B1-FirstAvailable",
+  "random_seed": 9,
+  "config_hash": "e0adfaa2",
+  "git_commit": "aa293c3a55aab96b12865e08120057342f6b36c0",
+  "recorded_at": "2026-10-10T20:38:22.049965+00:00",
+  "vehicle_count": 400,
+  "timestep_count": 600
+}

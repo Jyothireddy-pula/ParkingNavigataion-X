@@ -1,0 +1,10 @@
+{
+  "scenario_id": "vitap-scale-500",
+  "strategy_name": "B1-FirstAvailable",
+  "random_seed": 500,
+  "config_hash": "e0adfaa2",
+  "git_commit": "7683742428d26c43e9a4e4e475b92bf506920d02",
+  "recorded_at": "2026-11-20T05:36:30.558639+00:00",
+  "vehicle_count": 500,
+  "timestep_count": 600
+}

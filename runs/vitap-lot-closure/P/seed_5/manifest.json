@@ -1,0 +1,10 @@
+{
+  "scenario_id": "vitap-lot-closure",
+  "strategy_name": "P",
+  "random_seed": 5,
+  "config_hash": "e0adfaa2",
+  "git_commit": "b2227b4fa4ba5825ba730eecedc0acec72b72741",
+  "recorded_at": "2026-10-27T17:19:33.738339+00:00",
+  "vehicle_count": 400,
+  "timestep_count": 600
+}

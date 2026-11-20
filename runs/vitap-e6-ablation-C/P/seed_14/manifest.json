@@ -1,0 +1,10 @@
+{
+  "scenario_id": "vitap-e6-ablation-C",
+  "strategy_name": "P",
+  "random_seed": 14,
+  "config_hash": "e0adfaa2",
+  "git_commit": "b733c1a373efd2d3e8357de8b1aa6e8c91d7d17b",
+  "recorded_at": "2026-10-27T18:54:54.171880+00:00",
+  "vehicle_count": 400,
+  "timestep_count": 600
+}

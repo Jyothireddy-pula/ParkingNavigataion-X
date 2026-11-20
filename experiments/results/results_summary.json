@@ -1,0 +1,3102 @@
+{
+  "E1_normal_day|B1": {
+    "scenario": "E1_normal_day",
+    "strategy": "B1",
+    "n": 30,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 3.9703,
+        "std": 0.1381,
+        "ci95": 0.0516,
+        "n": 30
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0018,
+        "std": 0.0013,
+        "ci95": 0.0005,
+        "n": 30
+      },
+      "avg_gate_queue": {
+        "mean": 0.0007,
+        "std": 0.0009,
+        "ci95": 0.0004,
+        "n": 30
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 30
+      }
+    }
+  },
+  "E1_normal_day|B2": {
+    "scenario": "E1_normal_day",
+    "strategy": "B2",
+    "n": 30,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.5929,
+        "std": 0.1019,
+        "ci95": 0.0381,
+        "n": 30
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0018,
+        "std": 0.0013,
+        "ci95": 0.0005,
+        "n": 30
+      },
+      "avg_gate_queue": {
+        "mean": 0.0007,
+        "std": 0.0009,
+        "ci95": 0.0004,
+        "n": 30
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 30
+      }
+    }
+  },
+  "E1_normal_day|B3": {
+    "scenario": "E1_normal_day",
+    "strategy": "B3",
+    "n": 30,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 1.9812,
+        "std": 0.0576,
+        "ci95": 0.0215,
+        "n": 30
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0018,
+        "std": 0.0013,
+        "ci95": 0.0005,
+        "n": 30
+      },
+      "avg_gate_queue": {
+        "mean": 0.0007,
+        "std": 0.0009,
+        "ci95": 0.0004,
+        "n": 30
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 30
+      }
+    }
+  },
+  "E1_normal_day|P": {
+    "scenario": "E1_normal_day",
+    "strategy": "P",
+    "n": 30,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 1.9444,
+        "std": 0.0867,
+        "ci95": 0.0324,
+        "n": 30
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0018,
+        "std": 0.0013,
+        "ci95": 0.0005,
+        "n": 30
+      },
+      "avg_gate_queue": {
+        "mean": 0.0007,
+        "std": 0.0009,
+        "ci95": 0.0004,
+        "n": 30
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 30
+      }
+    }
+  },
+  "E2_event_placement|B1": {
+    "scenario": "E2_event_placement",
+    "strategy": "B1",
+    "n": 30,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 3.5058,
+        "std": 0.13,
+        "ci95": 0.0485,
+        "n": 30
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0048,
+        "std": 0.0027,
+        "ci95": 0.001,
+        "n": 30
+      },
+      "avg_gate_queue": {
+        "mean": 0.0027,
+        "std": 0.0027,
+        "ci95": 0.001,
+        "n": 30
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 30
+      }
+    }
+  },
+  "E2_event_placement|B2": {
+    "scenario": "E2_event_placement",
+    "strategy": "B2",
+    "n": 30,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.759,
+        "std": 0.0987,
+        "ci95": 0.0369,
+        "n": 30
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0048,
+        "std": 0.0027,
+        "ci95": 0.001,
+        "n": 30
+      },
+      "avg_gate_queue": {
+        "mean": 0.0027,
+        "std": 0.0027,
+        "ci95": 0.001,
+        "n": 30
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 30
+      }
+    }
+  },
+  "E2_event_placement|B3": {
+    "scenario": "E2_event_placement",
+    "strategy": "B3",
+    "n": 30,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.2147,
+        "std": 0.0849,
+        "ci95": 0.0317,
+        "n": 30
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0048,
+        "std": 0.0027,
+        "ci95": 0.001,
+        "n": 30
+      },
+      "avg_gate_queue": {
+        "mean": 0.0027,
+        "std": 0.0027,
+        "ci95": 0.001,
+        "n": 30
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 30
+      }
+    }
+  },
+  "E2_event_placement|P": {
+    "scenario": "E2_event_placement",
+    "strategy": "P",
+    "n": 30,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.1503,
+        "std": 0.1037,
+        "ci95": 0.0387,
+        "n": 30
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0048,
+        "std": 0.0027,
+        "ci95": 0.001,
+        "n": 30
+      },
+      "avg_gate_queue": {
+        "mean": 0.0027,
+        "std": 0.0027,
+        "ci95": 0.001,
+        "n": 30
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 30
+      }
+    }
+  },
+  "E3_lot_closure|B1": {
+    "scenario": "E3_lot_closure",
+    "strategy": "B1",
+    "n": 30,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.8483,
+        "std": 0.1683,
+        "ci95": 0.0629,
+        "n": 30
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0018,
+        "std": 0.0013,
+        "ci95": 0.0005,
+        "n": 30
+      },
+      "avg_gate_queue": {
+        "mean": 0.0007,
+        "std": 0.0009,
+        "ci95": 0.0004,
+        "n": 30
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 30
+      }
+    }
+  },
+  "E3_lot_closure|B2": {
+    "scenario": "E3_lot_closure",
+    "strategy": "B2",
+    "n": 10,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.5617,
+        "std": 0.1162,
+        "ci95": 0.0831,
+        "n": 10
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0015,
+        "std": 0.0012,
+        "ci95": 0.0008,
+        "n": 10
+      },
+      "avg_gate_queue": {
+        "mean": 0.0003,
+        "std": 0.0007,
+        "ci95": 0.0005,
+        "n": 10
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 10
+      }
+    }
+  },
+  "E3_lot_closure|B3": {
+    "scenario": "E3_lot_closure",
+    "strategy": "B3",
+    "n": 5,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 1.7894,
+        "std": 0.0701,
+        "ci95": 0.0871,
+        "n": 5
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0009,
+        "std": 0.0007,
+        "ci95": 0.0009,
+        "n": 5
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 5
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 5
+      }
+    }
+  },
+  "E3_lot_closure|P": {
+    "scenario": "E3_lot_closure",
+    "strategy": "P",
+    "n": 5,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 1.8849,
+        "std": 0.149,
+        "ci95": 0.185,
+        "n": 5
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0009,
+        "std": 0.0007,
+        "ci95": 0.0009,
+        "n": 5
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 5
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 5
+      }
+    }
+  },
+  "E4_gate_closure|B1": {
+    "scenario": "E4_gate_closure",
+    "strategy": "B1",
+    "n": 5,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 3.9999,
+        "std": 0.0941,
+        "ci95": 0.1168,
+        "n": 5
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0042,
+        "std": 0.0037,
+        "ci95": 0.0046,
+        "n": 5
+      },
+      "avg_gate_queue": {
+        "mean": 0.0027,
+        "std": 0.0028,
+        "ci95": 0.0035,
+        "n": 5
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 5
+      }
+    }
+  },
+  "E4_gate_closure|B2": {
+    "scenario": "E4_gate_closure",
+    "strategy": "B2",
+    "n": 5,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.6506,
+        "std": 0.0997,
+        "ci95": 0.1237,
+        "n": 5
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0042,
+        "std": 0.0037,
+        "ci95": 0.0046,
+        "n": 5
+      },
+      "avg_gate_queue": {
+        "mean": 0.0027,
+        "std": 0.0028,
+        "ci95": 0.0035,
+        "n": 5
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 5
+      }
+    }
+  },
+  "E4_gate_closure|B3": {
+    "scenario": "E4_gate_closure",
+    "strategy": "B3",
+    "n": 5,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.1964,
+        "std": 0.0473,
+        "ci95": 0.0587,
+        "n": 5
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0042,
+        "std": 0.0037,
+        "ci95": 0.0046,
+        "n": 5
+      },
+      "avg_gate_queue": {
+        "mean": 0.0027,
+        "std": 0.0028,
+        "ci95": 0.0035,
+        "n": 5
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 5
+      }
+    }
+  },
+  "E4_gate_closure|P": {
+    "scenario": "E4_gate_closure",
+    "strategy": "P",
+    "n": 5,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.04,
+        "std": 0.3227,
+        "ci95": 0.4007,
+        "n": 5
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0042,
+        "std": 0.0037,
+        "ci95": 0.0046,
+        "n": 5
+      },
+      "avg_gate_queue": {
+        "mean": 0.0027,
+        "std": 0.0028,
+        "ci95": 0.0035,
+        "n": 5
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 5
+      }
+    }
+  },
+  "E5_noise_0|B1": {
+    "scenario": "E5_noise_0",
+    "strategy": "B1",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 4.0559,
+        "std": 0.1252,
+        "ci95": 0.311,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.001,
+        "std": 0.001,
+        "ci95": 0.0026,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E5_noise_0|B2": {
+    "scenario": "E5_noise_0",
+    "strategy": "B2",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.5924,
+        "std": 0.1049,
+        "ci95": 0.2607,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.001,
+        "std": 0.001,
+        "ci95": 0.0026,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E5_noise_0|B3": {
+    "scenario": "E5_noise_0",
+    "strategy": "B3",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.0085,
+        "std": 0.0517,
+        "ci95": 0.1285,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.001,
+        "std": 0.001,
+        "ci95": 0.0026,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E5_noise_0|P": {
+    "scenario": "E5_noise_0",
+    "strategy": "P",
+    "n": 5,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.1368,
+        "std": 0.1619,
+        "ci95": 0.201,
+        "n": 5
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0009,
+        "std": 0.0007,
+        "ci95": 0.0009,
+        "n": 5
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 5
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 5
+      }
+    }
+  },
+  "E5_noise_10|B1": {
+    "scenario": "E5_noise_10",
+    "strategy": "B1",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 4.0559,
+        "std": 0.1252,
+        "ci95": 0.311,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.001,
+        "std": 0.001,
+        "ci95": 0.0026,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E5_noise_10|B2": {
+    "scenario": "E5_noise_10",
+    "strategy": "B2",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.5924,
+        "std": 0.1049,
+        "ci95": 0.2607,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.001,
+        "std": 0.001,
+        "ci95": 0.0026,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E5_noise_10|B3": {
+    "scenario": "E5_noise_10",
+    "strategy": "B3",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.0085,
+        "std": 0.0517,
+        "ci95": 0.1285,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.001,
+        "std": 0.001,
+        "ci95": 0.0026,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E5_noise_10|P": {
+    "scenario": "E5_noise_10",
+    "strategy": "P",
+    "n": 5,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.0814,
+        "std": 0.1531,
+        "ci95": 0.1901,
+        "n": 5
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0009,
+        "std": 0.0007,
+        "ci95": 0.0009,
+        "n": 5
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 5
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 5
+      }
+    }
+  },
+  "E5_noise_20|B1": {
+    "scenario": "E5_noise_20",
+    "strategy": "B1",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 4.0559,
+        "std": 0.1252,
+        "ci95": 0.311,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.001,
+        "std": 0.001,
+        "ci95": 0.0026,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E5_noise_20|B2": {
+    "scenario": "E5_noise_20",
+    "strategy": "B2",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.5924,
+        "std": 0.1049,
+        "ci95": 0.2607,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.001,
+        "std": 0.001,
+        "ci95": 0.0026,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E5_noise_20|B3": {
+    "scenario": "E5_noise_20",
+    "strategy": "B3",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.0085,
+        "std": 0.0517,
+        "ci95": 0.1285,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.001,
+        "std": 0.001,
+        "ci95": 0.0026,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E5_noise_20|P": {
+    "scenario": "E5_noise_20",
+    "strategy": "P",
+    "n": 5,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.0361,
+        "std": 0.1626,
+        "ci95": 0.2019,
+        "n": 5
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0009,
+        "std": 0.0007,
+        "ci95": 0.0009,
+        "n": 5
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 5
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 5
+      }
+    }
+  },
+  "E6_ablation|B1": {
+    "scenario": "E6_ablation",
+    "strategy": "B1",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 4.0559,
+        "std": 0.1252,
+        "ci95": 0.311,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.001,
+        "std": 0.001,
+        "ci95": 0.0026,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E6_ablation|B2": {
+    "scenario": "E6_ablation",
+    "strategy": "B2",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.5924,
+        "std": 0.1049,
+        "ci95": 0.2607,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.001,
+        "std": 0.001,
+        "ci95": 0.0026,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E6_ablation|B3": {
+    "scenario": "E6_ablation",
+    "strategy": "B3",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.0085,
+        "std": 0.0517,
+        "ci95": 0.1285,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.001,
+        "std": 0.001,
+        "ci95": 0.0026,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E6_ablation|P": {
+    "scenario": "E6_ablation",
+    "strategy": "P",
+    "n": 5,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.0055,
+        "std": 0.0359,
+        "ci95": 0.0446,
+        "n": 5
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0009,
+        "std": 0.0007,
+        "ci95": 0.0009,
+        "n": 5
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 5
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 5
+      }
+    }
+  },
+  "E6_ablation_B|B1": {
+    "scenario": "E6_ablation_B",
+    "strategy": "B1",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 4.0559,
+        "std": 0.1252,
+        "ci95": 0.311,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.001,
+        "std": 0.001,
+        "ci95": 0.0026,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E6_ablation_B|B2": {
+    "scenario": "E6_ablation_B",
+    "strategy": "B2",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.5924,
+        "std": 0.1049,
+        "ci95": 0.2607,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.001,
+        "std": 0.001,
+        "ci95": 0.0026,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E6_ablation_B|B3": {
+    "scenario": "E6_ablation_B",
+    "strategy": "B3",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.0085,
+        "std": 0.0517,
+        "ci95": 0.1285,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.001,
+        "std": 0.001,
+        "ci95": 0.0026,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E6_ablation_B|P": {
+    "scenario": "E6_ablation_B",
+    "strategy": "P",
+    "n": 5,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.0054,
+        "std": 0.0357,
+        "ci95": 0.0443,
+        "n": 5
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0009,
+        "std": 0.0007,
+        "ci95": 0.0009,
+        "n": 5
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 5
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 5
+      }
+    }
+  },
+  "E6_ablation_C|B1": {
+    "scenario": "E6_ablation_C",
+    "strategy": "B1",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 4.0559,
+        "std": 0.1252,
+        "ci95": 0.311,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.001,
+        "std": 0.001,
+        "ci95": 0.0026,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E6_ablation_C|B2": {
+    "scenario": "E6_ablation_C",
+    "strategy": "B2",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.5924,
+        "std": 0.1049,
+        "ci95": 0.2607,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.001,
+        "std": 0.001,
+        "ci95": 0.0026,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E6_ablation_C|B3": {
+    "scenario": "E6_ablation_C",
+    "strategy": "B3",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.0085,
+        "std": 0.0517,
+        "ci95": 0.1285,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.001,
+        "std": 0.001,
+        "ci95": 0.0026,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E6_ablation_C|P": {
+    "scenario": "E6_ablation_C",
+    "strategy": "P",
+    "n": 5,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.0054,
+        "std": 0.0357,
+        "ci95": 0.0443,
+        "n": 5
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0009,
+        "std": 0.0007,
+        "ci95": 0.0009,
+        "n": 5
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 5
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 5
+      }
+    }
+  },
+  "E6_ablation_D|B1": {
+    "scenario": "E6_ablation_D",
+    "strategy": "B1",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 4.0559,
+        "std": 0.1252,
+        "ci95": 0.311,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.001,
+        "std": 0.001,
+        "ci95": 0.0026,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E6_ablation_D|B2": {
+    "scenario": "E6_ablation_D",
+    "strategy": "B2",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.5924,
+        "std": 0.1049,
+        "ci95": 0.2607,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.001,
+        "std": 0.001,
+        "ci95": 0.0026,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E6_ablation_D|B3": {
+    "scenario": "E6_ablation_D",
+    "strategy": "B3",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.0085,
+        "std": 0.0517,
+        "ci95": 0.1285,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.001,
+        "std": 0.001,
+        "ci95": 0.0026,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E6_ablation_D|P": {
+    "scenario": "E6_ablation_D",
+    "strategy": "P",
+    "n": 5,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.1367,
+        "std": 0.1618,
+        "ci95": 0.2009,
+        "n": 5
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0009,
+        "std": 0.0007,
+        "ci95": 0.0009,
+        "n": 5
+      },
+      "avg_gate_queue": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 5
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 5
+      }
+    }
+  },
+  "E7_replay|B1": {
+    "scenario": "E7_replay",
+    "strategy": "B1",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.6903,
+        "std": 0.1134,
+        "ci95": 0.2816,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0106,
+        "std": 0.0057,
+        "ci95": 0.0142,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0061,
+        "std": 0.0025,
+        "ci95": 0.0063,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E7_replay|B2": {
+    "scenario": "E7_replay",
+    "strategy": "B2",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.4887,
+        "std": 0.0777,
+        "ci95": 0.1931,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0106,
+        "std": 0.0057,
+        "ci95": 0.0142,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0061,
+        "std": 0.0025,
+        "ci95": 0.0063,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E7_replay|B3": {
+    "scenario": "E7_replay",
+    "strategy": "B3",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 1.9504,
+        "std": 0.0486,
+        "ci95": 0.1207,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0106,
+        "std": 0.0057,
+        "ci95": 0.0142,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0061,
+        "std": 0.0025,
+        "ci95": 0.0063,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E7_replay|P": {
+    "scenario": "E7_replay",
+    "strategy": "P",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 1.8267,
+        "std": 0.0352,
+        "ci95": 0.0874,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0106,
+        "std": 0.0057,
+        "ci95": 0.0142,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0061,
+        "std": 0.0025,
+        "ci95": 0.0063,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E8_vehicle_types|B1": {
+    "scenario": "E8_vehicle_types",
+    "strategy": "B1",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 3.6147,
+        "std": 0.1235,
+        "ci95": 0.3069,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0015,
+        "std": 0.0013,
+        "ci95": 0.0032,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0006,
+        "std": 0.001,
+        "ci95": 0.0024,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E8_vehicle_types|B2": {
+    "scenario": "E8_vehicle_types",
+    "strategy": "B2",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 3.1116,
+        "std": 0.0875,
+        "ci95": 0.2174,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0015,
+        "std": 0.0013,
+        "ci95": 0.0032,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0006,
+        "std": 0.001,
+        "ci95": 0.0024,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E8_vehicle_types|B3": {
+    "scenario": "E8_vehicle_types",
+    "strategy": "B3",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.3459,
+        "std": 0.0536,
+        "ci95": 0.133,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0015,
+        "std": 0.0013,
+        "ci95": 0.0032,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0006,
+        "std": 0.001,
+        "ci95": 0.0024,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "E8_vehicle_types|P": {
+    "scenario": "E8_vehicle_types",
+    "strategy": "P",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.3457,
+        "std": 0.0746,
+        "ci95": 0.1854,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0015,
+        "std": 0.0013,
+        "ci95": 0.0032,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0006,
+        "std": 0.001,
+        "ci95": 0.0024,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "S10_real_day_replay|B1": {
+    "scenario": "S10_real_day_replay",
+    "strategy": "B1",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 3.7707,
+        "std": 0.2294,
+        "ci95": 0.5698,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.002,
+        "std": 0.0018,
+        "ci95": 0.0045,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0011,
+        "std": 0.001,
+        "ci95": 0.0024,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "S10_real_day_replay|B2": {
+    "scenario": "S10_real_day_replay",
+    "strategy": "B2",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.477,
+        "std": 0.114,
+        "ci95": 0.2831,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.002,
+        "std": 0.0018,
+        "ci95": 0.0045,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0011,
+        "std": 0.001,
+        "ci95": 0.0024,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "S10_real_day_replay|B3": {
+    "scenario": "S10_real_day_replay",
+    "strategy": "B3",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 1.9026,
+        "std": 0.0163,
+        "ci95": 0.0405,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.002,
+        "std": 0.0018,
+        "ci95": 0.0045,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0011,
+        "std": 0.001,
+        "ci95": 0.0024,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "S10_real_day_replay|P": {
+    "scenario": "S10_real_day_replay",
+    "strategy": "P",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 1.8257,
+        "std": 0.0843,
+        "ci95": 0.2093,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.002,
+        "std": 0.0018,
+        "ci95": 0.0045,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0011,
+        "std": 0.001,
+        "ci95": 0.0024,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "S2_peak_hour|B1": {
+    "scenario": "S2_peak_hour",
+    "strategy": "B1",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 3.896,
+        "std": 0.0996,
+        "ci95": 0.2474,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0065,
+        "std": 0.0026,
+        "ci95": 0.0065,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0028,
+        "std": 0.0025,
+        "ci95": 0.0063,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "S2_peak_hour|B2": {
+    "scenario": "S2_peak_hour",
+    "strategy": "B2",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.8426,
+        "std": 0.064,
+        "ci95": 0.159,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0065,
+        "std": 0.0026,
+        "ci95": 0.0065,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0028,
+        "std": 0.0025,
+        "ci95": 0.0063,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "S2_peak_hour|B3": {
+    "scenario": "S2_peak_hour",
+    "strategy": "B3",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.1886,
+        "std": 0.1188,
+        "ci95": 0.2951,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0065,
+        "std": 0.0026,
+        "ci95": 0.0065,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0028,
+        "std": 0.0025,
+        "ci95": 0.0063,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "S2_peak_hour|P": {
+    "scenario": "S2_peak_hour",
+    "strategy": "P",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 1.9621,
+        "std": 0.0704,
+        "ci95": 0.1748,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0065,
+        "std": 0.0026,
+        "ci95": 0.0065,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0028,
+        "std": 0.0025,
+        "ci95": 0.0063,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "S7_high_traffic|B1": {
+    "scenario": "S7_high_traffic",
+    "strategy": "B1",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.5018,
+        "std": 0.0672,
+        "ci95": 0.1668,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 4.6637,
+        "std": 1.2661,
+        "ci95": 3.1452,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 27.125,
+        "std": 7.6408,
+        "ci95": 18.9807,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 101.3333,
+        "std": 8.3267,
+        "ci95": 20.6846,
+        "n": 3
+      }
+    }
+  },
+  "S7_high_traffic|B2": {
+    "scenario": "S7_high_traffic",
+    "strategy": "B2",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.4913,
+        "std": 0.0301,
+        "ci95": 0.0747,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 4.6637,
+        "std": 1.2661,
+        "ci95": 3.1452,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 27.125,
+        "std": 7.6408,
+        "ci95": 18.9807,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 104.6667,
+        "std": 16.4418,
+        "ci95": 40.8437,
+        "n": 3
+      }
+    }
+  },
+  "S7_high_traffic|B3": {
+    "scenario": "S7_high_traffic",
+    "strategy": "B3",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.4697,
+        "std": 0.0443,
+        "ci95": 0.1102,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 4.6637,
+        "std": 1.2661,
+        "ci95": 3.1452,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 27.125,
+        "std": 7.6408,
+        "ci95": 18.9807,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 72.6667,
+        "std": 22.053,
+        "ci95": 54.7826,
+        "n": 3
+      }
+    }
+  },
+  "S7_high_traffic|P": {
+    "scenario": "S7_high_traffic",
+    "strategy": "P",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.4723,
+        "std": 0.0477,
+        "ci95": 0.1186,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 4.6637,
+        "std": 1.2661,
+        "ci95": 3.1452,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 27.125,
+        "std": 7.6408,
+        "ci95": 18.9807,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 95.3333,
+        "std": 9.0738,
+        "ci95": 22.5405,
+        "n": 3
+      }
+    }
+  },
+  "S8_scale_500|B1": {
+    "scenario": "S8_scale_500",
+    "strategy": "B1",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 3.9728,
+        "std": 0.0753,
+        "ci95": 0.1871,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0026,
+        "std": 0.0008,
+        "ci95": 0.0019,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0011,
+        "std": 0.001,
+        "ci95": 0.0024,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "S8_scale_500|B2": {
+    "scenario": "S8_scale_500",
+    "strategy": "B2",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.8517,
+        "std": 0.0581,
+        "ci95": 0.1444,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0026,
+        "std": 0.0008,
+        "ci95": 0.0019,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0011,
+        "std": 0.001,
+        "ci95": 0.0024,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "S8_scale_500|B3": {
+    "scenario": "S8_scale_500",
+    "strategy": "B3",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.2992,
+        "std": 0.072,
+        "ci95": 0.179,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0026,
+        "std": 0.0008,
+        "ci95": 0.0019,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0011,
+        "std": 0.001,
+        "ci95": 0.0024,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "S8_scale_500|P": {
+    "scenario": "S8_scale_500",
+    "strategy": "P",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.2462,
+        "std": 0.0718,
+        "ci95": 0.1785,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0026,
+        "std": 0.0008,
+        "ci95": 0.0019,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0011,
+        "std": 0.001,
+        "ci95": 0.0024,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "S9_scale_1000|B1": {
+    "scenario": "S9_scale_1000",
+    "strategy": "B1",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 4.0567,
+        "std": 0.0566,
+        "ci95": 0.1407,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.023,
+        "std": 0.0009,
+        "ci95": 0.0023,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0322,
+        "std": 0.0025,
+        "ci95": 0.0063,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "S9_scale_1000|B2": {
+    "scenario": "S9_scale_1000",
+    "strategy": "B2",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 4.0578,
+        "std": 0.0158,
+        "ci95": 0.0393,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.023,
+        "std": 0.0009,
+        "ci95": 0.0023,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0322,
+        "std": 0.0025,
+        "ci95": 0.0063,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "S9_scale_1000|B3": {
+    "scenario": "S9_scale_1000",
+    "strategy": "B3",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.7091,
+        "std": 0.025,
+        "ci95": 0.0621,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.023,
+        "std": 0.0009,
+        "ci95": 0.0023,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0322,
+        "std": 0.0025,
+        "ci95": 0.0063,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "S9_scale_1000|P": {
+    "scenario": "S9_scale_1000",
+    "strategy": "P",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.6285,
+        "std": 0.0203,
+        "ci95": 0.0505,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.023,
+        "std": 0.0009,
+        "ci95": 0.0023,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0322,
+        "std": 0.0025,
+        "ci95": 0.0063,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "event_day|B1": {
+    "scenario": "event_day",
+    "strategy": "B1",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 3.7161,
+        "std": 0.0686,
+        "ci95": 0.1705,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0038,
+        "std": 0.0045,
+        "ci95": 0.0112,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0028,
+        "std": 0.0048,
+        "ci95": 0.012,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "event_day|B2": {
+    "scenario": "event_day",
+    "strategy": "B2",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.7276,
+        "std": 0.1933,
+        "ci95": 0.4803,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0038,
+        "std": 0.0045,
+        "ci95": 0.0112,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0028,
+        "std": 0.0048,
+        "ci95": 0.012,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "event_day|B3": {
+    "scenario": "event_day",
+    "strategy": "B3",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.2304,
+        "std": 0.0707,
+        "ci95": 0.1756,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0038,
+        "std": 0.0045,
+        "ci95": 0.0112,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0028,
+        "std": 0.0048,
+        "ci95": 0.012,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "event_day|P": {
+    "scenario": "event_day",
+    "strategy": "P",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.2226,
+        "std": 0.0805,
+        "ci95": 0.2,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0038,
+        "std": 0.0045,
+        "ci95": 0.0112,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0028,
+        "std": 0.0048,
+        "ci95": 0.012,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "gate_closure|B1": {
+    "scenario": "gate_closure",
+    "strategy": "B1",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.7368,
+        "std": 0.0413,
+        "ci95": 0.1026,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.08,
+        "std": 0.0509,
+        "ci95": 0.1265,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.2333,
+        "std": 0.1516,
+        "ci95": 0.3766,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "gate_closure|B2": {
+    "scenario": "gate_closure",
+    "strategy": "B2",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.4535,
+        "std": 0.0247,
+        "ci95": 0.0614,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.08,
+        "std": 0.0509,
+        "ci95": 0.1265,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.2333,
+        "std": 0.1516,
+        "ci95": 0.3766,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "gate_closure|B3": {
+    "scenario": "gate_closure",
+    "strategy": "B3",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 1.8565,
+        "std": 0.0098,
+        "ci95": 0.0243,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.08,
+        "std": 0.0509,
+        "ci95": 0.1265,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.2333,
+        "std": 0.1516,
+        "ci95": 0.3766,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "gate_closure|P": {
+    "scenario": "gate_closure",
+    "strategy": "P",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 1.7973,
+        "std": 0.0194,
+        "ci95": 0.0482,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.08,
+        "std": 0.0509,
+        "ci95": 0.1265,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.2333,
+        "std": 0.1516,
+        "ci95": 0.3766,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "lot_closure|B1": {
+    "scenario": "lot_closure",
+    "strategy": "B1",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.6473,
+        "std": 0.0556,
+        "ci95": 0.1382,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.1196,
+        "std": 0.0105,
+        "ci95": 0.0261,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.3611,
+        "std": 0.0048,
+        "ci95": 0.012,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "lot_closure|B2": {
+    "scenario": "lot_closure",
+    "strategy": "B2",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.648,
+        "std": 0.0945,
+        "ci95": 0.2348,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.1196,
+        "std": 0.0105,
+        "ci95": 0.0261,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.3611,
+        "std": 0.0048,
+        "ci95": 0.012,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "lot_closure|B3": {
+    "scenario": "lot_closure",
+    "strategy": "B3",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.4669,
+        "std": 0.0187,
+        "ci95": 0.0464,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.1196,
+        "std": 0.0105,
+        "ci95": 0.0261,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.3611,
+        "std": 0.0048,
+        "ci95": 0.012,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "lot_closure|P": {
+    "scenario": "lot_closure",
+    "strategy": "P",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.4715,
+        "std": 0.0139,
+        "ci95": 0.0346,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.1196,
+        "std": 0.0105,
+        "ci95": 0.0261,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.3611,
+        "std": 0.0048,
+        "ci95": 0.012,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "parking_full|B1": {
+    "scenario": "parking_full",
+    "strategy": "B1",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.332,
+        "std": 0.1314,
+        "ci95": 0.3264,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 8.7661,
+        "std": 0.2967,
+        "ci95": 0.7371,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 69.037,
+        "std": 6.4617,
+        "ci95": 16.0517,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 38.3333,
+        "std": 5.8595,
+        "ci95": 14.5557,
+        "n": 3
+      }
+    }
+  },
+  "parking_full|B2": {
+    "scenario": "parking_full",
+    "strategy": "B2",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.34,
+        "std": 0.1247,
+        "ci95": 0.3097,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 8.7661,
+        "std": 0.2967,
+        "ci95": 0.7371,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 69.037,
+        "std": 6.4617,
+        "ci95": 16.0517,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 34,
+        "std": 5.2915,
+        "ci95": 13.1448,
+        "n": 3
+      }
+    }
+  },
+  "parking_full|B3": {
+    "scenario": "parking_full",
+    "strategy": "B3",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.3155,
+        "std": 0.1426,
+        "ci95": 0.3542,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 8.7661,
+        "std": 0.2967,
+        "ci95": 0.7371,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 69.037,
+        "std": 6.4617,
+        "ci95": 16.0517,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 34,
+        "std": 5.5678,
+        "ci95": 13.8311,
+        "n": 3
+      }
+    }
+  },
+  "parking_full|P": {
+    "scenario": "parking_full",
+    "strategy": "P",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.3108,
+        "std": 0.1037,
+        "ci95": 0.2575,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 8.7661,
+        "std": 0.2967,
+        "ci95": 0.7371,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 69.037,
+        "std": 6.4617,
+        "ci95": 16.0517,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 30.3333,
+        "std": 11.1505,
+        "ci95": 27.6993,
+        "n": 3
+      }
+    }
+  },
+  "road_closure|B1": {
+    "scenario": "road_closure",
+    "strategy": "B1",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 3.8515,
+        "std": 0.0665,
+        "ci95": 0.1652,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0029,
+        "std": 0.0037,
+        "ci95": 0.0092,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0022,
+        "std": 0.0025,
+        "ci95": 0.0063,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "road_closure|B2": {
+    "scenario": "road_closure",
+    "strategy": "B2",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.4274,
+        "std": 0.1311,
+        "ci95": 0.3257,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0029,
+        "std": 0.0037,
+        "ci95": 0.0092,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0022,
+        "std": 0.0025,
+        "ci95": 0.0063,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "road_closure|B3": {
+    "scenario": "road_closure",
+    "strategy": "B3",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 1.9032,
+        "std": 0.0516,
+        "ci95": 0.1283,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0029,
+        "std": 0.0037,
+        "ci95": 0.0092,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0022,
+        "std": 0.0025,
+        "ci95": 0.0063,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "road_closure|P": {
+    "scenario": "road_closure",
+    "strategy": "P",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 1.9524,
+        "std": 0.0862,
+        "ci95": 0.2142,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0029,
+        "std": 0.0037,
+        "ci95": 0.0092,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0022,
+        "std": 0.0025,
+        "ci95": 0.0063,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "scale_1000|B1": {
+    "scenario": "scale_1000",
+    "strategy": "B1",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 4.0181,
+        "std": 0.0449,
+        "ci95": 0.1116,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0213,
+        "std": 0.0024,
+        "ci95": 0.0058,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0272,
+        "std": 0.0075,
+        "ci95": 0.0187,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "scale_1000|B2": {
+    "scenario": "scale_1000",
+    "strategy": "B2",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 4.0856,
+        "std": 0.0674,
+        "ci95": 0.1675,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0213,
+        "std": 0.0024,
+        "ci95": 0.0058,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0272,
+        "std": 0.0075,
+        "ci95": 0.0187,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "scale_1000|B3": {
+    "scenario": "scale_1000",
+    "strategy": "B3",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.6951,
+        "std": 0.0328,
+        "ci95": 0.0814,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0213,
+        "std": 0.0024,
+        "ci95": 0.0058,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0272,
+        "std": 0.0075,
+        "ci95": 0.0187,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "scale_1000|P": {
+    "scenario": "scale_1000",
+    "strategy": "P",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.6289,
+        "std": 0.0338,
+        "ci95": 0.084,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0213,
+        "std": 0.0024,
+        "ci95": 0.0058,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0272,
+        "std": 0.0075,
+        "ci95": 0.0187,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "scale_500|B1": {
+    "scenario": "scale_500",
+    "strategy": "B1",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 3.9079,
+        "std": 0.0963,
+        "ci95": 0.2391,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0011,
+        "std": 0.0012,
+        "ci95": 0.0029,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0006,
+        "std": 0.001,
+        "ci95": 0.0024,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "scale_500|B2": {
+    "scenario": "scale_500",
+    "strategy": "B2",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.8321,
+        "std": 0.0433,
+        "ci95": 0.1076,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0011,
+        "std": 0.0012,
+        "ci95": 0.0029,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0006,
+        "std": 0.001,
+        "ci95": 0.0024,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "scale_500|B3": {
+    "scenario": "scale_500",
+    "strategy": "B3",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.2871,
+        "std": 0.0574,
+        "ci95": 0.1426,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0011,
+        "std": 0.0012,
+        "ci95": 0.0029,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0006,
+        "std": 0.001,
+        "ci95": 0.0024,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  },
+  "scale_500|P": {
+    "scenario": "scale_500",
+    "strategy": "P",
+    "n": 3,
+    "metrics": {
+      "avg_search_time_min": {
+        "mean": 2.1433,
+        "std": 0.081,
+        "ci95": 0.2013,
+        "n": 3
+      },
+      "avg_wait_time_min": {
+        "mean": 0.0011,
+        "std": 0.0012,
+        "ci95": 0.0029,
+        "n": 3
+      },
+      "avg_gate_queue": {
+        "mean": 0.0006,
+        "std": 0.001,
+        "ci95": 0.0024,
+        "n": 3
+      },
+      "overflow_events": {
+        "mean": 0,
+        "std": 0.0,
+        "ci95": 0.0,
+        "n": 3
+      }
+    }
+  }
+}

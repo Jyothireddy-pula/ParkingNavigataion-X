@@ -1,0 +1,10 @@
+{
+  "scenario_id": "vitap-normal-day",
+  "strategy_name": "B1",
+  "random_seed": 0,
+  "config_hash": "e0adfaa2",
+  "git_commit": "b68a1b733450e86843a11ab1f74ce4da9c7351a6",
+  "recorded_at": "2026-11-13T06:00:42.940432+00:00",
+  "vehicle_count": 400,
+  "timestep_count": 600
+}

@@ -1,0 +1,35 @@
+# HC2: High Congestion — 90% target peak utilisation
+# Total capacity: 472 usable spaces. At equilibrium with 120-min median dwell:
+#   peak arrival rate needed ≈ 0.90 × 472 / 120 ≈ 3.5 veh/min
+# vehicle_count=1100 gives ~90% average utilisation under lognormal dwell.
+# Expects occasional overflow events — where P's proactive avoidance adds value.
+scenario_id: vitap-hc2-90pct
+campus_id: vitap
+name: HC2_HIGH_CONGESTION_90
+description: "High congestion: 90% target peak utilisation. 1100 vehicles, 10 hours."
+duration_minutes: 600
+vehicle_count: 1100
+start_time_min: 480
+arrival_rate_profile:
+  type: profile
+  points:
+    - { time: 0,   rate: 0.6  }
+    - { time: 60,  rate: 3.3  }
+    - { time: 120, rate: 2.5  }
+    - { time: 240, rate: 1.8  }
+    - { time: 360, rate: 2.5  }
+    - { time: 480, rate: 1.2  }
+    - { time: 540, rate: 0.6  }
+    - { time: 600, rate: 0.2  }
+event_conditions: null
+availability_overrides:
+  closed_gates: []
+  closed_parking_lots: []
+  closed_roads: []
+prediction_error_injection_level: 0.0
+random_seed: 7
+warmdown_minutes: 30
+use_prediction: true
+use_optimization: true
+use_uncertainty: true
+proactive: true

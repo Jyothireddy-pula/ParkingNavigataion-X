@@ -1,0 +1,30 @@
+{
+  "primary_metrics": {
+    "avg_search_time_min": 2.25,
+    "avg_waiting_time_min": 9.04,
+    "avg_gate_queue_vehicles": 35.71,
+    "max_gate_queue_vehicles": 121,
+    "overflow_events_count": 35,
+    "avg_travel_time_min": 2.41,
+    "total_travel_time_veh_min": 1350.2,
+    "avg_travel_distance_m": 716.6,
+    "total_travel_distance_veh_km": 430.0,
+    "lot_peak_occupied_spaces": {
+      "vitap-lot-overflow": 46,
+      "vitap-lot-hostel": 162,
+      "vitap-lot-sports": 84,
+      "vitap-lot-academic-main": 108,
+      "vitap-lot-admin-visitor": 72
+    }
+  },
+  "secondary_metrics": {
+    "total_vehicles_simulated": 600,
+    "parked_vehicles": 456,
+    "exited_vehicles": 45,
+    "in_system_vehicles": 64,
+    "rejected_vehicles": 35,
+    "allocated_vehicles": 561,
+    "allocation_success_rate": 0.935,
+    "avg_search_time_event_window_min": null
+  }
+}

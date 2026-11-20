@@ -1,0 +1,278 @@
+{
+  "vitap-gate-main": {
+    "edited_at": "2026-10-16T09:09:42.082566+00:00",
+    "lat": 16.49704,
+    "lng": 80.499321,
+    "note": "moved on map",
+    "original": {
+      "lat": 16.4961,
+      "lng": 80.4991
+    },
+    "provenance": "USER_EDITED",
+    "type": "gate"
+  },
+  "vitap-gate-visitor": {
+    "edited_at": "2026-10-16T09:11:17.681553+00:00",
+    "lat": 16.494094,
+    "lng": 80.501922,
+    "note": "moved on map",
+    "original": {
+      "lat": 16.493,
+      "lng": 80.5035
+    },
+    "provenance": "USER_EDITED",
+    "type": "gate"
+  },
+  "vitap-gym-001": {
+    "edited_at": "2026-10-16T09:09:17.202762+00:00",
+    "lat": 16.494777,
+    "lng": 80.498098,
+    "note": "moved on map",
+    "original": {
+      "lat": 16.4934,
+      "lng": 80.4978
+    },
+    "provenance": "USER_EDITED",
+    "type": "destination"
+  },
+  "vitap-lot-academic-main": {
+    "edited_at": "2026-10-16T09:11:10.018369+00:00",
+    "lat": 16.494649,
+    "lng": 80.500372,
+    "note": "moved on map",
+    "original": {
+      "lat": 16.493,
+      "lng": 80.5023
+    },
+    "provenance": "USER_EDITED",
+    "type": "parking_lot"
+  },
+  "vitap-lot-admin-visitor": {
+    "edited_at": "2026-10-16T09:15:13.107610+00:00",
+    "lat": 16.495122,
+    "lng": 80.501547,
+    "note": "moved on map",
+    "original": {
+      "lat": 16.4937,
+      "lng": 80.5015
+    },
+    "provenance": "USER_EDITED",
+    "type": "parking_lot"
+  },
+  "vitap-lot-hostel": {
+    "edited_at": "2026-10-16T13:27:41.839364+00:00",
+    "lat": 16.49323,
+    "lng": 80.500978,
+    "note": "moved on map",
+    "original": {
+      "lat": 16.491,
+      "lng": 80.5016
+    },
+    "provenance": "USER_EDITED",
+    "type": "parking_lot"
+  },
+  "vitap-lot-overflow": {
+    "edited_at": "2026-10-16T08:52:39.666285+00:00",
+    "lat": 16.496788,
+    "lng": 80.499895,
+    "note": "moved on map",
+    "original": {
+      "lat": 16.4957,
+      "lng": 80.5008
+    },
+    "provenance": "USER_EDITED",
+    "type": "parking_lot"
+  },
+  "vitap-lot-overflow-2": {
+    "edited_at": "2026-10-16T12:28:25.856127+00:00",
+    "lat": 16.49687,
+    "lng": 80.498757,
+    "note": "moved on map",
+    "original": {
+      "lat": 16.4957,
+      "lng": 80.4974
+    },
+    "provenance": "USER_EDITED",
+    "type": "parking_lot"
+  },
+  "vitap-lot-sports": {
+    "edited_at": "2026-10-16T13:27:59.091607+00:00",
+    "lat": 16.493959,
+    "lng": 80.497051,
+    "note": "moved on map",
+    "original": {
+      "lat": 16.491,
+      "lng": 80.4953
+    },
+    "provenance": "USER_EDITED",
+    "type": "parking_lot"
+  },
+  "vitap-lot-sports-2": {
+    "edited_at": "2026-10-16T13:28:05.547868+00:00",
+    "lat": 16.493043,
+    "lng": 80.495989,
+    "note": "moved on map",
+    "original": {
+      "lat": 16.49151,
+      "lng": 80.4964
+    },
+    "provenance": "USER_EDITED",
+    "type": "parking_lot"
+  },
+  "vitap-osm-1255690439": {
+    "edited_at": "2026-10-16T09:14:10.641970+00:00",
+    "lat": 16.494298,
+    "lng": 80.499251,
+    "note": "moved on map",
+    "original": {
+      "lat": 16.4926,
+      "lng": 80.4992
+    },
+    "provenance": "USER_EDITED",
+    "type": "destination"
+  },
+  "vitap-osm-1321555307": {
+    "edited_at": "2026-10-16T09:14:25.798710+00:00",
+    "lat": 16.493691,
+    "lng": 80.498639,
+    "note": "moved on map",
+    "original": {
+      "lat": 16.492,
+      "lng": 80.4986
+    },
+    "provenance": "USER_EDITED",
+    "type": "destination"
+  },
+  "vitap-osm-1434460208": {
+    "edited_at": "2026-10-16T09:13:02.987212+00:00",
+    "lat": 16.494154,
+    "lng": 80.500839,
+    "note": "moved on map",
+    "original": {
+      "lat": 16.4926,
+      "lng": 80.5014
+    },
+    "provenance": "USER_EDITED",
+    "type": "destination"
+  },
+  "vitap-osm-1434460210": {
+    "edited_at": "2026-10-16T09:12:48.562588+00:00",
+    "lat": 16.493547,
+    "lng": 80.501611,
+    "note": "moved on map",
+    "original": {
+      "lat": 16.4916,
+      "lng": 80.5024
+    },
+    "provenance": "USER_EDITED",
+    "type": "destination"
+  },
+  "vitap-osm-1434460214": {
+    "edited_at": "2026-10-16T09:13:22.518400+00:00",
+    "lat": 16.49222,
+    "lng": 80.501633,
+    "note": "moved on map",
+    "original": {
+      "lat": 16.4901,
+      "lng": 80.5025
+    },
+    "provenance": "USER_EDITED",
+    "type": "destination"
+  },
+  "vitap-osm-1434890457": {
+    "edited_at": "2026-10-16T09:13:54.200166+00:00",
+    "lat": 16.492045,
+    "lng": 80.500002,
+    "note": "moved on map",
+    "original": {
+      "lat": 16.4896,
+      "lng": 80.5017
+    },
+    "provenance": "USER_EDITED",
+    "type": "destination"
+  },
+  "vitap-osm-1485919486": {
+    "edited_at": "2026-10-16T09:09:53.286039+00:00",
+    "lat": 16.495667,
+    "lng": 80.500646,
+    "note": "moved on map",
+    "original": {
+      "lat": 16.4948,
+      "lng": 80.5014
+    },
+    "provenance": "USER_EDITED",
+    "type": "destination"
+  },
+  "vitap-osm-1485935404": {
+    "edited_at": "2026-10-16T09:13:42.778110+00:00",
+    "lat": 16.492703,
+    "lng": 80.500678,
+    "note": "moved on map",
+    "original": {
+      "lat": 16.4904,
+      "lng": 80.5016
+    },
+    "provenance": "USER_EDITED",
+    "type": "destination"
+  },
+  "vitap-osm-1485935405": {
+    "edited_at": "2026-10-16T09:14:44.997359+00:00",
+    "lat": 16.492065,
+    "lng": 80.496976,
+    "note": "moved on map",
+    "original": {
+      "lat": 16.4895,
+      "lng": 80.4966
+    },
+    "provenance": "USER_EDITED",
+    "type": "destination"
+  },
+  "vitap-osm-750542242": {
+    "edited_at": "2026-10-16T09:09:02.239803+00:00",
+    "lat": 16.495682,
+    "lng": 80.49821,
+    "note": "moved on map",
+    "original": {
+      "lat": 16.4947,
+      "lng": 80.4981
+    },
+    "provenance": "USER_EDITED",
+    "type": "destination"
+  },
+  "vitap-osm-lh2-001": {
+    "edited_at": "2026-10-16T09:15:03.693975+00:00",
+    "lat": 16.491907,
+    "lng": 80.497518,
+    "note": "moved on map",
+    "original": {
+      "lat": 16.4891,
+      "lng": 80.4975
+    },
+    "provenance": "USER_EDITED",
+    "type": "destination"
+  },
+  "vitap-osm-mh4-001": {
+    "edited_at": "2026-10-16T09:15:25.676487+00:00",
+    "lat": 16.491911,
+    "lng": 80.501043,
+    "note": "moved on map",
+    "original": {
+      "lat": 16.4895,
+      "lng": 80.5022
+    },
+    "provenance": "USER_EDITED",
+    "type": "destination"
+  },
+  "vitap-osm-mh5-001": {
+    "edited_at": "2026-10-16T09:12:15.526891+00:00",
+    "lat": 16.494185,
+    "lng": 80.501547,
+    "note": "moved on map",
+    "original": {
+      "lat": 16.4924,
+      "lng": 80.5018
+    },
+    "provenance": "USER_EDITED",
+    "type": "destination"
+  }
+}

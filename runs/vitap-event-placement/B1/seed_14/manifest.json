@@ -1,0 +1,10 @@
+{
+  "scenario_id": "vitap-event-placement",
+  "strategy_name": "B1",
+  "random_seed": 14,
+  "config_hash": "e0adfaa2",
+  "git_commit": "b2227b4fa4ba5825ba730eecedc0acec72b72741",
+  "recorded_at": "2026-10-27T16:32:10.117369+00:00",
+  "vehicle_count": 470,
+  "timestep_count": 600
+}

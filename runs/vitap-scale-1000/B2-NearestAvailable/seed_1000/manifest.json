@@ -1,0 +1,10 @@
+{
+  "scenario_id": "vitap-scale-1000",
+  "strategy_name": "B2-NearestAvailable",
+  "random_seed": 1000,
+  "config_hash": "e0adfaa2",
+  "git_commit": "7683742428d26c43e9a4e4e475b92bf506920d02",
+  "recorded_at": "2026-11-20T05:35:31.938495+00:00",
+  "vehicle_count": 1000,
+  "timestep_count": 600
+}

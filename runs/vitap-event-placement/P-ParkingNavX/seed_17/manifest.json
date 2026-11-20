@@ -1,0 +1,10 @@
+{
+  "scenario_id": "vitap-event-placement",
+  "strategy_name": "P-ParkingNavX",
+  "random_seed": 17,
+  "config_hash": "e0adfaa2",
+  "git_commit": "aa293c3a55aab96b12865e08120057342f6b36c0",
+  "recorded_at": "2026-10-10T20:30:44.697273+00:00",
+  "vehicle_count": 470,
+  "timestep_count": 600
+}

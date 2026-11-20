@@ -1,0 +1,10 @@
+{
+  "scenario_id": "vitap-e6-ablation-D",
+  "strategy_name": "P-ParkingNavX",
+  "random_seed": 25,
+  "config_hash": "e0adfaa2",
+  "git_commit": "aa293c3a55aab96b12865e08120057342f6b36c0",
+  "recorded_at": "2026-10-10T20:37:20.653754+00:00",
+  "vehicle_count": 400,
+  "timestep_count": 600
+}

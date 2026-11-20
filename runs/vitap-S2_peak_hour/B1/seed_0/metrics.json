@@ -1,0 +1,18 @@
+{
+  "avg_search_time_min": 3.8159892300779816,
+  "avg_wait_time_min": 0.007638888888888889,
+  "avg_gate_queue": 0.005,
+  "max_gate_queue": 1,
+  "overflow_events_count": 0,
+  "avg_travel_time_min": 1.3341082509331654,
+  "total_travel_distance_m": 342200.0,
+  "max_search_time_min": 5.898619684499313,
+  "total_vehicles": 480,
+  "completed_vehicles": 433,
+  "parked_vehicles": 43,
+  "total_ever_parked": 476,
+  "successful_park_rate": 0.9917,
+  "total_reassignments": 23,
+  "infeasibility_rejections": 0,
+  "adapter_fallbacks": 0
+}

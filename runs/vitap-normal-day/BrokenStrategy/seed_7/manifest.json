@@ -1,0 +1,10 @@
+{
+  "scenario_id": "vitap-normal-day",
+  "strategy_name": "BrokenStrategy",
+  "random_seed": 7,
+  "config_hash": "e0adfaa2",
+  "git_commit": "fec24521aacf7017c9dd02640325b566cff10b53",
+  "recorded_at": "2026-10-10T17:34:09.715466+00:00",
+  "vehicle_count": 10,
+  "timestep_count": 600
+}

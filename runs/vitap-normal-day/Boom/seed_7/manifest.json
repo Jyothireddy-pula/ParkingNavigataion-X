@@ -1,0 +1,10 @@
+{
+  "scenario_id": "vitap-normal-day",
+  "strategy_name": "Boom",
+  "random_seed": 7,
+  "config_hash": "e0adfaa2",
+  "git_commit": "53a1fa4382030d059296752a12c2c8d2bd34a6ba",
+  "recorded_at": "2026-10-10T18:13:03.899987+00:00",
+  "vehicle_count": 400,
+  "timestep_count": 600
+}

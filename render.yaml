@@ -1,0 +1,29 @@
+services:
+  # FastAPI backend, native Python runtime
+  - type: web
+    name: parkingnav-api
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn digital_twin.api.app:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: PARKINGNAV_API_KEY
+        generateValue: true          # guards write endpoints (POST /observations, /predict/retrain)
+      - key: PARKINGNAV_ALLOWED_ORIGINS
+        value: "https://parking-nav-x-vitap.vercel.app"   # restrict to deployed frontend
+      - key: DATABASE_URL
+        fromDatabase:
+          name: parkingnav-db
+          property: connectionString   # injected by Render as postgresql://...
+
+databases:
+  # Persistent PostgreSQL — survives backend restarts and redeploys.
+  # Free tier: 256 MB storage, 1 month retention, shared compute.
+  # Upgrade to starter ($7/mo) for dedicated compute and longer retention.
+  - name: parkingnav-db
+    plan: free
+    databaseName: parkingnav
+    user: parkingnav
